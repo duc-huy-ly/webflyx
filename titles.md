@@ -8,3 +8,4 @@
 - Kung Fu Panda
 - Spiderman 2
 - Iron Man
+- Batman
