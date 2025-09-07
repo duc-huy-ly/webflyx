@@ -6,3 +6,4 @@
 - The Big Short
 - 12 Monkeys
 - The Curius Case of Benjamin Franklin
+- Kung Fu Panda
